@@ -1,0 +1,15 @@
+/**
+ * Django-bdk-forms is a BodokeCSS filter for Django forms.
+ * Compatible with BodokeCSS 0.3.0 (Caesar Odysseus)
+ *
+ * If you want to compile this code you will need to clone the BodokeCSS repository
+ * on the same directory where 'django-bdk-forms' is placed
+ * BodokeCSS: http://github.com/dmmarmol/bodokecss
+ *
+ */
+
+// Bodoke core settings & sonfig
+@import "../../bodokecss/scss/bodoke/settings/settings"; 				// mixins
+
+// Input stylesheet
+@import "../../bodokecss/scss/bodoke/component/input";
